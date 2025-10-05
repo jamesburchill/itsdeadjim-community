@@ -1,4 +1,4 @@
-# 🧠 Dead Jim Agents
+# 🧠 Dead Jim Community Repo
 
 > “It's Dead, Jim!”
 > — Every engineer’s least favourite moment
