@@ -121,6 +121,6 @@ Do whatever you like — just don’t blame us if your system actually dies.
 
 * [Official Dead Jim Site](https://itsdeadjim.com)
 * [API Docs Portal](https://api.itsdeadjim.com/docs)
-* [Community Discussions](https://github.com/itsdeadjim-community/discussions)
+* [Community Discussions](https://github.com/jamesburchill/itsdeadjim-community/discussions)
 
 ---
