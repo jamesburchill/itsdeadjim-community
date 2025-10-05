@@ -11,7 +11,7 @@ This repo hosts **open-source agents** for various platforms. Each one’s tiny,
 
 ## 🚀 Quick Start
 
-1. **Pick your platform** from the [agents](https://github.com/jamesburchill/itsdeadjim-community/blob/main/agents) folder:
+1. **Pick your platform** from the **/agents** folder:
 
    * Raspberry Pi Pico W
    * Linux (Bash or Python)
