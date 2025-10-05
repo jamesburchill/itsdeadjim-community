@@ -83,3 +83,4 @@ CVS/
 **/*.dump
 **/*.log
 000.txt
+!/.gitignore
